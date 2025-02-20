@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1nBKXbMA2qsfKLiRzoG87lur-8Wu7nN57
 2) токены, эмб, рекомендации
 https://colab.research.google.com/drive/1S7mh2bwqaK0GE4cxT3BhrlDPf0TvG64V
 3) para
-https://drive.google.com/file/d/1quS3QmPntI0V-GQud59vWqDL2WP6XzC-/view?usp=sharing
+https://colab.research.google.com/drive/1quS3QmPntI0V-GQud59vWqDL2WP6XzC-
 
 
 pipelines
