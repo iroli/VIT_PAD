@@ -37,14 +37,31 @@ https://colab.research.google.com/drive/1EiqcHQ9ISflbNZMrlORTPW39szBxOl-7
 
 https://drive.google.com/file/d/1lkXWA7je_EII5NUQCkKKp_kpumuVBdJQ/view?usp=sharing
 
-
+--s5-- (23.2)
 ТЕСТ
 
---s5--
+--s6--
 задание
 https://colab.research.google.com/drive/1E_ghp3NbzrQkg87hkao4T7oxOWzxs8Fz?usp=sharing
 конспект
 https://colab.research.google.com/drive/1WmZOnALmDTvHv1DOZJCh9T9l0auZ_4V4
+
+--s7--
+про разметку
+https://colab.research.google.com/drive/1cBQFV8POCnPxJLYfofaul8TMMWYUYvHY
+
+пример про извлечение сущностей
+https://colab.research.google.com/drive/1ZkfofWC8CyyZPnzvj-j9oLDVqipmL8cN
+
+про дообучение
+https://colab.research.google.com/drive/1_SEfQvTJSYpwbQI2ZmFkGolNhrumybfU
+
+дописать и дообучить для русского языка
+https://colab.research.google.com/drive/1GeLO2tkdVO-jT5M-S5xsY32MIiGu3Deb
+
+пример ДЗ
+https://drive.google.com/drive/u/0/folders/1c7kCsoNn46HbRrLNZFSTN8FnJEOQDkJI
+
 
 
 
