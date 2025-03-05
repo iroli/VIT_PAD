@@ -79,3 +79,8 @@ https://drive.google.com/file/d/15qp_k_IM5B7S2XLsa5k_hO_X4d8JxJYf/view?usp=drive
 https://drive.google.com/file/d/12OWnTabXgXnV_VmVItVIdB5Hpv3o_iGk/view?usp=drivesdk
 
 https://drive.google.com/file/d/1DPgeUy-hFqi05ribHVWtORWg43AzSIHW/view?usp=drivesdk
+
+
+dataset for graph
+
+https://snap.stanford.edu/data/ego-Facebook.html
