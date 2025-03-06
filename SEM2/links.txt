@@ -84,3 +84,10 @@ https://drive.google.com/file/d/1DPgeUy-hFqi05ribHVWtORWg43AzSIHW/view?usp=drive
 dataset for graph
 
 https://snap.stanford.edu/data/ego-Facebook.html
+
+
+
+для группы 23.3
+тематическое моделирование, визуализация, стат алгоритмы
+https://colab.research.google.com/drive/1T2NpKru0z0dbQjKqmK_psGOKpHvF5JK2
+https://disk.yandex.ru/d/Hd0O9zfKg3R1AA
