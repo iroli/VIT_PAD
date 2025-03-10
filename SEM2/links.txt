@@ -91,3 +91,15 @@ https://snap.stanford.edu/data/ego-Facebook.html
 тематическое моделирование, визуализация, стат алгоритмы
 https://colab.research.google.com/drive/1T2NpKru0z0dbQjKqmK_psGOKpHvF5JK2
 https://disk.yandex.ru/d/Hd0O9zfKg3R1AA
+
+10-03
+*** additional
+https://colab.research.google.com/drive/1Yq7Q6MwKUDNsFXt2_2TLVC8siu5ADUOS
+https://drive.google.com/file/d/1-QlbA_sDxkxZ5v8FK_dAtva388Vlb2oZ/view?usp=sharing
+https://drive.google.com/file/d/1P43uXz79nvAilyzYXuaV6bDuI4FieIHb/view?usp=sharing
+https://drive.google.com/file/d/1-IsC2zcp3nZyCKClB91_q3Kbdh5Hbkqp/view?usp=sharing
+https://drive.google.com/file/d/1MG4m_p3HNZ6ghcf1_wriV4V0LooxVEPK/view?usp=sharing
+
+NER
+https://colab.research.google.com/drive/1_hwJWb9sduSwYBjQ6LWC_qyStcXyUoRk
+https://colab.research.google.com/drive/1yAUVqm3M0_l8r8fUfJDiJ5GxIV4pKXD2
