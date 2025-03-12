@@ -93,6 +93,8 @@ data
 https://drive.google.com/drive/folders/1gavsIKSUi56lEs_zY5ZW5ACxGsv6pUwM?usp=sharing
 ner simple
 https://drive.google.com/file/d/1yleDlSnBBqFShGRtaRsTCotER-lSKvNw/view?usp=sharing
+ner advanced
+https://drive.google.com/file/d/16joPH_2DQRveji_1qAFjMPN_4D91zFRX/view?usp=sharing
 
 
 
