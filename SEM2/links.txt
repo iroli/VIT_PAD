@@ -122,3 +122,11 @@ https://drive.google.com/file/d/1MG4m_p3HNZ6ghcf1_wriV4V0LooxVEPK/view?usp=shari
 NER
 https://colab.research.google.com/drive/1_hwJWb9sduSwYBjQ6LWC_qyStcXyUoRk
 https://colab.research.google.com/drive/1yAUVqm3M0_l8r8fUfJDiJ5GxIV4pKXD2
+
+
+--fine tuning bert--
+## классификация
+https://drive.google.com/file/d/17igaw1sEASEm9PBypuRH6xupVcA0RAI9/view?usp=sharing
+
+## ner
+https://drive.google.com/file/d/15QJNjqJwEUVlttxItAl555he6eeJtVe1/view?usp=sharing
