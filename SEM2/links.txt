@@ -130,8 +130,8 @@ https://drive.google.com/file/d/1kSiPMrjosxxcchadbi8n4YOWqPzUSKrm/view?usp=shari
 мультимодальность
 https://colab.research.google.com/drive/1_tD2Dzq9RQgvFft5P4bJRHQXAaXhbGLZ#scrollTo=-ETtu9CvVMDR
 
-
-
+blip2 исправленное
+https://colab.research.google.com/drive/12T3uTWbsgNUbORONFEK8dDUCwZTPzSN_?authuser=1#scrollTo=PtvYbcF-H_t6
 
 
 
