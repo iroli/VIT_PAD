@@ -126,6 +126,17 @@ https://drive.google.com/file/d/1kSiPMrjosxxcchadbi8n4YOWqPzUSKrm/view?usp=shari
 
 
 
+--s12--
+мультимодальность
+https://colab.research.google.com/drive/1_tD2Dzq9RQgvFft5P4bJRHQXAaXhbGLZ#scrollTo=-ETtu9CvVMDR
+
+
+
+
+
+
+
+
 для группы 23.3
 тематическое моделирование, визуализация, стат алгоритмы
 https://colab.research.google.com/drive/1T2NpKru0z0dbQjKqmK_psGOKpHvF5JK2
