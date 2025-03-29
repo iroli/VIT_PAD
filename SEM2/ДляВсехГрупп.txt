@@ -1,0 +1,83 @@
+Темы заданий, которые обсуждали на семинарах
+ 
+ИДс-23.1 не делают  пункты 15, 14, 8, и 7
+ИД-23.3  не делают  пункты  7 и 8а
+
+!!!ВНИМАНИЕ!!! ИДс-23.1 и ИД-23.3, если сделаете дополнительные темы, вам все зачтется на экзамене
+
+ИД-23.2 делают все задания, я в вас верю!
+
+
+
+1) https://colab.research.google.com/drive/1S7mh2bwqaK0GE4cxT3BhrlDPf0TvG64V
+дописывали функцию рекомендации песен по эмбедингам
+
+2) https://colab.research.google.com/drive/1quS3QmPntI0V-GQud59vWqDL2WP6XzC-
+задача парафраз и метрики
+
+3) https://colab.research.google.com/drive/1lXMO3qpqXw42_Sh9LiLQvBJtozjTCdvq
+https://colab.research.google.com/drive/1lXMO3qpqXw42_Sh9LiLQvBJtozjTCdvq
+https://colab.research.google.com/drive/17TUST7UDULfqmDz39k7Tk0UeFuk-31RE
+задания по промт-инжинирингу
+
+4)https://colab.research.google.com/drive/1O-1bw_SbxXOKkZhHqo2m80t-Jca0dbeY
+https://colab.research.google.com/drive/1wXb4pxoGIGLo_Vhzut7jFFK_YyYGf-rR
+генерация история и метрики
+
+5) https://colab.research.google.com/drive/1tN8utnteeeN8NdWWNqrZ9JDATSqVRf-3
+https://colab.research.google.com/drive/1EiqcHQ9ISflbNZMrlORTPW39szBxOl-7
+дообучение и классификация
+
+6) https://colab.research.google.com/drive/1E_ghp3NbzrQkg87hkao4T7oxOWzxs8Fz?usp=sharing
+кластеризация и тематический анализ
+
+
+
+7) https://colab.research.google.com/drive/1GeLO2tkdVO-jT5M-S5xsY32MIiGu3Deb
+дообучение NER
+
+https://drive.google.com/file/d/11W1XRdCKR_HvY_bQtNuf0lEi8gMF4oU7/view?usp=drivesdk
+подготовить разметку на этих данных для дообучения для ner
+подготовить разметку на этих данных для дообучения для извлечения связей между именованными сущностями
+
+
+8) https://drive.google.com/file/d/1J2VkKKjy7TCh9mAfeyxDPHmfKbUlgT6M/view?usp=drivesdk
+https://colab.research.google.com/drive/1yleDlSnBBqFShGRtaRsTCotER-lSKvNw
+взять текст, поизвлекать пары именованных сущностей  нарисовать граф по образцу
+
+8а) https://drive.google.com/file/d/1J2VkKKjy7TCh9mAfeyxDPHmfKbUlgT6M/view?usp=drivesdk
+https://colab.research.google.com/drive/1yleDlSnBBqFShGRtaRsTCotER-lSKvNw
+взять текст, поизвлекать пары именованных сущностей и связи между ними и нарисовать граф по образцу
+
+
+
+9) https://colab.research.google.com/drive/12htXMqdeS9FkJAflQHAgda_JKmotLSNS
+вопросно ответные системы
+
+10) https://colab.research.google.com/drive/123Tk2tMDTm11KOei3E9fEnjjdcPWzbZf
+память и инструменты при генерации
+
+11) https://colab.research.google.com/drive/1LN6fArfRCjeAGYP9wezSgQGnSxN-HJh8
+семантический поиск 
+
+12) https://colab.research.google.com/drive/1LN6fArfRCjeAGYP9wezSgQGnSxN-HJh8
+base rag
+
+13)https://colab.research.google.com/drive/1_tD2Dzq9RQgvFft5P4bJRHQXAaXhbGLZ#scrollTo=-ETtu9CvVMDR
+мультимодальность
+
+https://colab.research.google.com/drive/12T3uTWbsgNUbORONFEK8dDUCwZTPzSN_?authuser=1#scrollTo=PtvYbcF-H_t6
+blip2 исправленное
+
+14) https://drive.google.com/file/d/1zpfILf9KDWicfRCUliphXv7DdZsM0ba6/view?usp=sharing
+rag по тексту 
+graph rag по тексту
+оценки качество ответов
+
+15) будет еще один пункт ...
+
+
+
+
+
+
