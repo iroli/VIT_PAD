@@ -131,6 +131,9 @@ https://drive.google.com/file/d/1kSiPMrjosxxcchadbi8n4YOWqPzUSKrm/view?usp=shari
 https://colab.research.google.com/drive/1_tD2Dzq9RQgvFft5P4bJRHQXAaXhbGLZ#scrollTo=-ETtu9CvVMDR
 
 blip2 исправленное
+без квантизации
+https://colab.research.google.com/drive/18tROI9Kf8lGtE1U_9EcGira66D6NSZGL?usp=sharing
+с квантизацией. требуется пока инсталировать все библиотеки, затем перезапустить сеанс и после запускать код
 https://colab.research.google.com/drive/12T3uTWbsgNUbORONFEK8dDUCwZTPzSN_?authuser=1#scrollTo=PtvYbcF-H_t6
 
 
