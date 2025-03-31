@@ -139,6 +139,9 @@ https://colab.research.google.com/drive/18tROI9Kf8lGtE1U_9EcGira66D6NSZGL?usp=sh
 https://colab.research.google.com/drive/1JZlx0Caes4lW84ixkgMKWKXCqtBM_tL0
 
 
+еще один про мультимодальность и генерацию картинок по описанию
+https://colab.research.google.com/drive/1vCo85zWnqd5drAPM5fDBBjYUccbd6ecW#scrollTo=fZQ_8crawT3i
+
 
 
 
