@@ -172,5 +172,9 @@ https://drive.google.com/file/d/15QJNjqJwEUVlttxItAl555he6eeJtVe1/view?usp=shari
 
 
 
+--lora
+https://drive.google.com/file/d/1D6OqtJeQYzyXXtAajKLqDN9NiIduDAtw/view?usp=sharing
+--rag дроны
+https://colab.research.google.com/drive/1WEr6_OLBhrwS6JsFz3u-l39kftnyw2Td
 --graph rag--
 https://drive.google.com/file/d/1e2-1V0-1aniDXkYpXjckzRnMbHymHXUQ/view?usp=sharing
